@@ -1,3 +1,6 @@
+
+#esse codigo precisa de uma descricao inicial sobre o que esta fazendo]
+
 # Leitura dos dados de abundância
 matriz <- read.csv("especies.csv", row.names=1) 
 
